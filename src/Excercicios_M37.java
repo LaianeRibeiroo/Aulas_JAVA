@@ -1,7 +1,7 @@
 //Exercicio 01 
 //Fazer um programa para ler um número inteiro, e depois dizer se este número é negativo ou não.
 import java.util.Scanner;
-public class Exercicios_m37_01 {
+public class Exercicios_M37 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
