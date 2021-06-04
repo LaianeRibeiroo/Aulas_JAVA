@@ -1,3 +1,4 @@
+package Exercicios_Modulo_37;
 //Exercicio 02
 //Fazer um programa para ler um número inteiro e dizer se este número é par ou ímpar
 import java.util.Scanner;

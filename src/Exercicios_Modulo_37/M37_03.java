@@ -1,3 +1,4 @@
+package Exercicios_Modulo_37;
 import java.util.Scanner;
 public class M37_03 {
 
